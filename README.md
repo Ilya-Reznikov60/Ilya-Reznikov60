@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" width="100"/> 
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ilya-Reznikov60&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
