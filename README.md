@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, this is Ilya Reznikov 👋
 
 <!--
 **Ilya-Reznikov60/Ilya-Reznikov60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
