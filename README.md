@@ -1,4 +1,4 @@
-### Hi, this is Ilya Reznikov 👋
+### Hi, This is Ilya Reznikov 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" width="100"/> 
