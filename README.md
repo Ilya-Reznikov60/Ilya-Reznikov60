@@ -11,6 +11,19 @@
 ### :man_technologist: About me:
 
 I am a Python backend developer
+
+### ⚙️ GitHub statistic:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Ilya-Reznikov60&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ilya-Reznikov60&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 <!--
 **Ilya-Reznikov60/Ilya-Reznikov60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
