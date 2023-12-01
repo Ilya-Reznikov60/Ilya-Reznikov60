@@ -7,6 +7,10 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ilya-Reznikov60&style=flat-square&color=blue" alt=""/>
 </div>
+
+### :man_technologist: About me:
+
+I am a Python backend developer
 <!--
 **Ilya-Reznikov60/Ilya-Reznikov60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
