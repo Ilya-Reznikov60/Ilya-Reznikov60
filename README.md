@@ -14,7 +14,7 @@ I am a Python backend developer
 
 ## 🤝 Connect with me
 
-+ 💣 [Telegram](https://t.me/Reznikov_Ilya01)
++ 💼 [Telegram](https://t.me/Reznikov_Ilya01)
 
 ### 🛠️ Languages and Tools :
 
