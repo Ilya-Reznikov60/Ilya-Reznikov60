@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ilya-Reznikov60&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: About me:
+### 👨‍💻: About me:
 
 I am a Python backend developer
 
