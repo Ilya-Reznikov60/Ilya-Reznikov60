@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Python backend developer
+I am a Python backend developer. I started my journey in 2022, at which time I became very interested in web development. The choice fell on the python programming language. Python is a powerful and versatile programming language that provides many benefits for web development. The choice of Python for me is due to its simplicity, extensive ecosystem approach and powerful frameworks. I also master other technologies that seem interesting to me. I am currently engaged in project activities.
 
 ## 🤝 Connect with me
 
