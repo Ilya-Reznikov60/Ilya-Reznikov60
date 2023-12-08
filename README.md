@@ -15,7 +15,7 @@ I am a Python backend developer. I started my journey in 2022, at which time I b
 ## 🤝 Connect with me
 
 + 💼 [Telegram](https://t.me/Reznikov_Ilya01)
-+ 📧 [Mail](mailto:reznikov.iluxa@yandex.ru)
++ 📧 [Mail](mailto:reznikov.ilya.98@mail.ru)
 
 ### 🛠️ Languages and Tools :
 
